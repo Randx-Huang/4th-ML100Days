@@ -1,14 +1,2 @@
-
-homework/Data/application_train.csv
-
-homework/Data/house_train.csv.gz
-
-homework/Day_004_HW_data/application_train.csv
-
-homework/Day_004_HW_data/HomeCredit_columns_description.csv
-
-homework/Day_007_HW_data/titanic_test.csv
-
-homework/Day_007_HW_data/titanic_train.csv
-
-homework/Day_031_HW\.ipynb~HEAD
+*.csv
+*.csv.gz
