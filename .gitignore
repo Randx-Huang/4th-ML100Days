@@ -1,5 +1,16 @@
 *.csv
 *.csv.gz
-*.DS_Store
+*.zip
+.DS_Store
 .ipynb_checkpoints
 .ipynb_checkpoints/*
+
+4th-ML100DAYS/*.ipynb
+4th-ML100DAYS/*.png
+4th-ML100DAYS/*.pdf
+4th-ML100DAYS/*.PNG
+homework/.ipynb_checkpoints
+homework/data
+homework/data-Midterm
+homework/data-science-london-scilit-learn
+homework/.DS_Store
